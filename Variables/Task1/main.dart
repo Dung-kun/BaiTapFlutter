@@ -15,5 +15,5 @@ void main() {
     }
   } while (age == null || age <= 0);
 
-  print("${2022 + 100 - age} là năm bạn 100 tuổi nha");
+  print("Hi ${name}, ${2022 + 100 - age} là năm bạn 100 tuổi nha");
 }
